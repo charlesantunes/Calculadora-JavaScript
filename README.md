@@ -1,2 +1,2 @@
-# Calculadora-JavaScript
-Primeiro projeto é uma calculadora
+# Calculadora-JavaScript  
+Projeto é a criação de uma calculadora em JavaScript
